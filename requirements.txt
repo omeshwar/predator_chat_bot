@@ -1,0 +1,5 @@
+python-telegram-bot
+alpha_vantage
+pytz
+pandas
+pandas_ta
